@@ -1,0 +1,4 @@
+Cuphead is a game based on continuous boss fights. The player character, Cuphead, has lost a bet with the devil and is trying to repay the debt. 
+The game takes the form of a branching sequence of levels. Cuphead has an infinite number of attempts and does not lose his weapon upon death. 
+The protagonist of the game has the ability to parry various objects coded in pink. Successful parries fill a special meter that allows him to perform a special ability. 
+Levels are accessible through an action RPG style overworld that has its own secret paths.
